@@ -1,7 +1,3 @@
-#We encourage readers to try out the code and would be genuinely glad, if our code can be used for different projects
-#or extensions of this current one. Note that you need at least python 3 to properly run the code. Please remember to
-#cite our paper, if the code helped produce interesting results.
-
 import numpy as np
 import scipy as sp
 import scipy.optimize as opt
