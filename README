@@ -1,1 +1,6 @@
+We encourage readers to try out the code and would be genuinely glad, if our code can be used for different projects
+or extensions of this current one. Note that you need at least python 3 to properly run the code. Please remember to
+cite our paper, if the code helped produce interesting results.
 
+The provided code only calculates a spin configuration for a given parameterset and starting from one random starting configuration. 
+You can set the Parameters at the beginning of the code and then run it, it will automatically plot the spin configuration every 100 iterations.
